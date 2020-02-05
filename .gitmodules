@@ -1,0 +1,9 @@
+[submodule "plugged/ale"]
+	path = plugged/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "plugged/jedi-vim"]
+	path = plugged/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "plugged/pddl.vim"]
+	path = plugged/pddl.vim
+	url = https://github.com/PontusPersson/pddl.vim.git
