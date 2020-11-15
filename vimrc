@@ -16,7 +16,6 @@ if empty(glob('~/.vim/autoload/plug.vim'))
 endif
 
 call plug#begin()
-Plug 'PontusPersson/pddl.vim'
 Plug 'dense-analysis/ale'
 Plug 'davidhalter/jedi-vim'
 call plug#end()
